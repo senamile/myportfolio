@@ -154,7 +154,9 @@ nav .sideb:hover::after {
     word-wrap: normal;
 }
 
-
+.welcomepage{
+    flex-wrap: wrap;
+}
 .welcomepage h1{
     padding-top: 60px;
     font-size: 5em;
