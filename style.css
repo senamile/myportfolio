@@ -154,9 +154,6 @@ nav .sideb:hover::after {
     word-wrap: normal;
 }
 
-.welcomepage{
-    flex-wrap: wrap;
-}
 .welcomepage h1{
     padding-top: 60px;
     font-size: 5em;
@@ -169,7 +166,7 @@ nav .sideb:hover::after {
 
 .welcomepage span{
     padding-left: 5px;
-    font-size: 20px ;
+    font-size: 15px ;
     color: #facc15;
     font-weight: 800;
     text-shadow: 0 4px 4px #080808;
@@ -187,7 +184,7 @@ nav .sideb:hover::after {
     }
 
 .welcomepage p{
-    font-size: 20px;
+    font-size: 15px;
     padding-bottom: 20px;
     justify-content: center;
     display: flex;
